@@ -8,5 +8,11 @@ Oceans are essential to the existence of humans as we rely on them for food, wat
 # Assignment 01: Heuristic Evaluation
 
 ### Case 1: [DHI Group](https://www.dhigroup.com)
+![Page 1 of report](./images/Case1.1.jpg)
+![Page 2 of report](./images/Case1.2.jpg)
+![Page 3 of report](./images/Case1.3.jpg)
+![Page 4 of report](./images/Case1.4.jpg)
+![Page 5 of report](./images/Case1.5.jpg)
+![Page 6 of report](./images/Case1.6.jpg)
 
 ### Case 2: []()
