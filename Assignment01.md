@@ -13,7 +13,6 @@ This website is a company called DHI group who offers solutions for problems in 
 ![Page 3 of report](./images/Case1.3.jpg)
 ![Page 4 of report](./images/Case1.4.jpg)
 ![Page 5 of report](./images/Case1.5.jpg)
-![Page 6 of report](./images/Case1.6.jpg)
 
 ### Case 2: [Marine Conservation Institute](https://marine-conservation.org)
 The Marine Conservation Institute is an alliance that works to defend and advocate for marine ecosystems. They lead efforts to protect sea habitats and conserve coral ecosystems as well as marine animals. They prioritize protecting the ocean and offer many ways for people to join their mission, which is something that my project aims to do. Hence, this was why I decided to analyze this website. 
