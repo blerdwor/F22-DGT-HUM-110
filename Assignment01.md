@@ -7,6 +7,7 @@ Oceans are essential to the existence of humans as we rely on them for food, wat
 
 # Assignment 01: Heuristic Evaluation
 ### Case 1: [DHI Group](https://www.dhigroup.com)
+This website is a company called DHI group who offers solutions for problems in water environments. They focus on research and applications to offer their clients the best ways to save water, share it, improve the quality, or manage its flow. I decided to look into this website as a potential source for solutions to marine life as that is an issue that they address.
 ![Page 1 of report](./images/Case1.1.jpg)
 ![Page 2 of report](./images/Case1.2.jpg)
 ![Page 3 of report](./images/Case1.3.jpg)
@@ -15,6 +16,7 @@ Oceans are essential to the existence of humans as we rely on them for food, wat
 ![Page 6 of report](./images/Case1.6.jpg)
 
 ### Case 2: [Marine Conservation Institute](https://marine-conservation.org)
+The Marine Conservation Institute is an alliance that works to defend and advocate for marine ecosystems. They lead efforts to protect sea habitats and conserve coral ecosystems as well as marine animals. They prioritize protecting the ocean and offer many ways for people to join their mission, which is something that my project aims to do. Hence, this was why I decided to analyze this website. 
 ![Page 1 of report](./images/Case2.1.jpg)
 ![Page 2 of report](./images/Case2.2.jpg)
 ![Page 3 of report](./images/Case2.3.jpg)
