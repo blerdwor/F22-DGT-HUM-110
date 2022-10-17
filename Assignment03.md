@@ -42,10 +42,10 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
 **Decide what activities to observe**
 > Participatory Research:   
-> * Activity 1: I observed when people bought bags, and arbitrarily asked customers who were leaving the store if they had time to answer a question. I asked why they bought a bag instead of bringing one.  
-> * Activity 2: I observed when people brought bags, and arbitrarily asked customers who were leaving the store if they had time to answer a question. I asked why they brought a bag instead of buying one.
+> * Activity 1: I will observe when people buy bags, and arbitrarily ask customers (who seem like they are 26-30 years old) leaving the store why they bought a bag instead of bringing one.  
+> * Activity 2: I will observe when people bring bags, and arbitrarily ask customers (who seem like they are 26-30 years old) leaving the store why they brought a bag instead of buying one.  
 
-> Interview: I observed the participant’s facial expressions, tone, and body language. 
+> Interview: I will observe the participant’s facial expressions, tone, and body language throughout the interview as well how they work with the Internet to complete the tasks. 
 
 **Decide how to interact with the users**
 > Participatory: I will observe customers from afar as they’re finishing checking out, and approach some directly to ask questions. 
