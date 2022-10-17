@@ -60,4 +60,4 @@ Activity 2: I  observed when people brought their own bags and arbitrarily chose
 
 Interview recording [here](https://ucla.zoom.us/rec/play/fu0zTqUnYCERtQLJ4ak3JoetAaGC4J37dhncs_fpHPU_uEr7EujZkUIwxeRUGYKOQyxjRtheUhrTLGgI.A-I3EgpxWNcxVD9Z). (Passcode: JA?Jn8h7)
 
-Interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
+Proofread interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
