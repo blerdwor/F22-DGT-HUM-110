@@ -43,14 +43,21 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 > Participatory Research: 
 Activity 1: I observed when people bought bags, if they made any comments, and arbitrarily would ask people why they bought a bag instead of bringing their own one
 Activity 2: I  observed when people brought their own bags and arbitrarily chose people to ask why not just buy a bag   
-> Interview: in person, I followed this script
+> Interview: in person, I followed a script linked below and observed the participant's tone, facial expressions, and body language.
 
 **Decide how to interact with the users**
 > As mentioned above, both methods involve participation.
-> 
+
+
 **Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)**
-> Participatory Research: I took pen-paper notes of my observations and the responses that I received 
+> Participatory Research: I took pen-paper notes of my observations and the responses that I received  
 > Interview: I recorded our conversation, as well as took notes on a document.
 
 **Prepare the (interview + observation) guide**
 > [Script](https://docs.google.com/document/d/1y2ErcifAN4cb65jco70WFvExIve2Sg26-qEzzCHR2FI/edit?usp=sharing)
+
+## User Data
+
+Interview recording [here](https://ucla.zoom.us/rec/play/fu0zTqUnYCERtQLJ4ak3JoetAaGC4J37dhncs_fpHPU_uEr7EujZkUIwxeRUGYKOQyxjRtheUhrTLGgI.A-I3EgpxWNcxVD9Z). (Passcode: JA?Jn8h7)
+
+Interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
