@@ -36,28 +36,36 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
 ### :four: Plan the details
 **Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually**
-> Participatory Research: in person, the Westwood Ralphs  
-> Interview: in person, this could be conducted virtually but I was able to meet with the student and so decided to have it in person to have a more authentic experience rather than just the virtual, recorded one  
+> Participatory Research: I will go to the Ralphs in Westwood to observe and ask shoppers questions about reusable bags. While this may not seem connected to my design project, plastic bags are one of the largest pollutants in the oceans. I remember when the state passed a law to charge for plastic bags. They did this out of environmental concerns so I want to observe how people decide whether or not to buy one.
+
+> Interview: I will meet my participant in a quiet office space to have a more authentic experience rather than just the virtual recording. The person I invited to study is a young adult who is not specifically involved with marine conservation. Therefore, they can provide me with insight on how young adults consume information.
 
 **Decide what activities to observe**
-> Participatory Research: 
-Activity 1: I observed when people bought bags, if they made any comments, and arbitrarily would ask people why they bought a bag instead of bringing their own one
-Activity 2: I  observed when people brought their own bags and arbitrarily chose people to ask why not just buy a bag   
-> Interview: in person, I followed a script linked below and observed the participant's tone, facial expressions, and body language.
+> Participatory Research:   
+> * Activity 1: I observed when people bought bags, and arbitrarily asked customers who were leaving the store if they had time to answer a question. I asked why they bought a bag instead of bringing one.  
+> * Activity 2: I observed when people brought bags, and arbitrarily asked customers who were leaving the store if they had time to answer a question. I asked why they brought a bag instead of buying one.
+
+> Interview: I observed the participant’s facial expressions, tone, and body language. 
 
 **Decide how to interact with the users**
-> As mentioned above, both methods involve participation.
+> Participatory: I will observe customers from afar as they’re finishing checking out, and approach some directly to ask questions. 
 
+> Interview: I will just speak with the participant and follow a script to guide the conversation. It should be a more casual conversation. 
 
 **Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)**
-> Participatory Research: I took pen-paper notes of my observations and the responses that I received  
-> Interview: I recorded our conversation, as well as took notes on a document.
+> Participatory Research: I will take pen-paper notes of my observations and the responses that I received. 
+
+> Interview: I will record the conversation and Internet activity via Zoom, and also take handnotes.
 
 **Prepare the (interview + observation) guide**
-> [Script](https://docs.google.com/document/d/1y2ErcifAN4cb65jco70WFvExIve2Sg26-qEzzCHR2FI/edit?usp=sharing)
+> Interview script [here](https://docs.google.com/document/d/1y2ErcifAN4cb65jco70WFvExIve2Sg26-qEzzCHR2FI/edit?usp=sharing)
 
 ## User Data
 
+Participatory research notes here
+
 Interview recording [here](https://ucla.zoom.us/rec/play/fu0zTqUnYCERtQLJ4ak3JoetAaGC4J37dhncs_fpHPU_uEr7EujZkUIwxeRUGYKOQyxjRtheUhrTLGgI.A-I3EgpxWNcxVD9Z). (Passcode: JA?Jn8h7)
 
-Proofread interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
+Proofread and edited interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
+
+Interview notes here
