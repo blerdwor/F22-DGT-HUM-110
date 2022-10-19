@@ -62,13 +62,13 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
 ## User Data
 
-Participatory research notes here
+Participatory research notes [here](https://drive.google.com/file/d/1Tzg6WVA0XyIU2PnnC1muJXbxoFssnCVu/view?usp=sharing)
 
 Interview recording [here](https://ucla.zoom.us/rec/play/fu0zTqUnYCERtQLJ4ak3JoetAaGC4J37dhncs_fpHPU_uEr7EujZkUIwxeRUGYKOQyxjRtheUhrTLGgI.A-I3EgpxWNcxVD9Z). (Passcode: JA?Jn8h7)
 
 Proofread and edited interview transcript [here](https://docs.google.com/document/d/1Lx2UmrkvDvF_rtg1H84QHAOexPpFxxPxNvUBIlq41MY/edit?usp=sharing).
 
-Interview notes here
+Interview notes [here](https://drive.google.com/file/d/1TySfG4INfIO9YJHbl6qYUVBgEDkSsXdB/view?usp=sharing)
 
 ## Reflection
 I enjoyed this process a lot more and felt that I received more insight. The interview was more casual and the participant felt more comfortable speaking to me. Although it was a little awkward gathering the information at Ralphs, it felt a little more natural after getting some practice. I found that typically people are nice and are more than happy to answer some questions. I gathered a lot of new information on young adults in general (key insights provided below)! This will be very useful in helping me guide my design project. I learned that some participants have a lot to say (like in my interview) whereas some participants might need more prompting or motivation (as with last week’s user testing). In both cases, it’s important to improvise on the spot. I needed to cut out some of my planned questions because my participant had already answered them by themselves for a previous question. Additionally, my participant shared new sentiments and perspectives that I had not considered before. For instance, I am very willing to give up convenience for more sustainable practices; however I forget that many people do not and we need to meet people where they are. Something that I would do differently next time is to have more confidence when conducting participatory research so that I don’t stutter as much when asking the question. I will also be able to take better notes as I will be more focused on observing the person rather than feeling subconscious about approaching them.
