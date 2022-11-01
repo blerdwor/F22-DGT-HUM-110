@@ -9,13 +9,22 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
 **User Personas:**
 > The personas that I created can be characterized as such: young adults with a career, in their mid-twenties to thirties, busy with other life commitments, not very aware of ocean sustainability, may not be close (proximity-wise) to organizations that host events. They have the desire to make a change, but may be beginners to this movement and need some extra help getting out of their shell to try new things or are finding ways to contribute no matter where they are. Thus they need a platform to find such information, and they do not need any specific level of expertise or tech-knowledge to use the application. 
+>
+> Please find more information about user personas and task scenarios [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment04.md).
 
 **Features:**  
 > Through various trials of user research, including usability testing on a marine conservation website, participatory research, and an interview with a member of the target demographic, I was inspired to create this low-fi prototype. It will provide two main features: a filter to allow the user to read up on current news about threats and solutions for protecting life below water as well as a location-matcher to enable them to find ways to join the effort. 
 
-For more information about user personas and task scenarios, please read about it [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment04.md).
+The low-fidelity prototype supports the following tasks:
+* Find local events to get involved with
+* Learn about ways to get involved without being physically present
+* Read about current news on life below water
+  * Filter the news by year
+  * Filter the news by author
+  * Filter the news by topic
+* Search for specific current news
 
-## Wireframes
+## [Wireframes](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Lofi-Prototype-Demo?node-id=0%3A1)
 
 <p align="center">Landing Page</p>
 <p align="center">
