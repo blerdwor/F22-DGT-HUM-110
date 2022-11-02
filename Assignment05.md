@@ -77,19 +77,19 @@ Every user starts out at the landing page which offers two options: read current
 
 I asked one of my friends who is pursuing a masters degree to help me test out the lo-fi prototypes. They would be considered as in the early stages of a young adult.
 
-### Filter articles by year :heavy_check_mark:
+### Task 1: Filter articles by year :heavy_check_mark:
 ![User Test 1](./images/UserTest1.png)
 This task was fairly simple but I think that there was some difficulty in learning how to use Figma as opposed to actually figuring out which pieces connected to each other. While observing them, I also needed to intervene and explain that they should go through the entire process starting from the landing page. Otherwise, they were starting at the page with the filter box showing. Then I also clarified and asked them to be as specific as possible when selecting which buttons go to which frames or objects. Before that, they were linking one button to just one frame and then that was the end of it. However, after explaining, they got it pretty quickly and could complete the whole flow.
 
-### Filter articles by topic :heavy_check_mark:
+### Task 2: Filter articles by topic :heavy_check_mark:
 ![User Test 2](./images/UserTest2.png) 
 They completed this task pretty quickly as well. I think that after the first round, my friend knew what to do. They were able to read each button very quickly and intuitively decide which path to go. This told me that not bombarding the user with information is effective and allows them to more easily navigate. 
 
-### Find an event to volunteer at :x:
+### Task 3: Find an event to volunteer at :x:
 ![User Test 3](./images/UserTest3.png)
 My friend was able to get to the “Local Events” page pretty quickly, but then they got stuck on how to get from the options page to choosing one of the events. I noticed that they carefully inspected everything that in their mind was “clickable” which did not include the picture itself. This was very good for me to know because that’s a very big error.
 
-### Find other ways besides volunteering to help out :heavy_check_mark:
+### Task 4: Find other ways besides volunteering to help out :heavy_check_mark:
 ![User Test 4](./images/UserTest4.png)
 This one was also a simple task to finish. From the previous tasks, it seemed like they remembered which buttons went to which pages. That’s also good for me to know because if I can make the user interact with the system less, then there will be less for them to learn and have to memorize what to do. 
 
