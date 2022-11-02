@@ -1,4 +1,4 @@
-# Assignment 04: Persona + Scenario 
+# Assignment 05: Low Fidelity Prototype 
 
 Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
