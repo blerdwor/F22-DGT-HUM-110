@@ -16,6 +16,7 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 > I used Figma to create the Interface Design. I had digitized the frames in the last project, and so I chose one of the wireframes to focus on. I started with a grid to conduct the layout test, and adjust the components accordingly. Then I moved onto typography; I looked through Google fonts to see which fonts matched the energy that I wanted to convey from the website and then played around with different pairings. Next, I developed the color scheme for both light and dark using oceanic colors. I also included colors for the states of interaction like hovering over the button. Lastly, I showed the iterations of this process in the Figma but I also wrote a summary at the bottom of the page as well as added my choices as styles in the Figma.
  
 The Figma design file can be found [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Lofi-Prototype-Demo?node-id=33%3A124).
+
 The Figma full screen design (for impression testing) can be found [here](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Lofi-Prototype-Demo?node-id=66%3A601&scaling=scale-down&page-id=66%3A139).
 
 ## Screen Design
