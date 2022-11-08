@@ -69,6 +69,7 @@ The Figma full screen design (for impression testing) can be found [here](https:
 ## Impression Test
 
 ## Reflection
+This process was a lot more time-intensive than I had expected. I spent much longer on the layout than I had originally anticipated. I think that with time and experience, I’d have a better idea of what proportions look aesthetically pleasing. I also spent a long time experimenting with the font types, sizes, and arrangement which is to be expected. Similarly, color is also difficult to get right on top of the added challenge of ensuring that the design is visually accessible. I’m really grateful for the Figma plugins and web tools that helped me develop a usable color palette. This activity gave me a lot of insight on what it’s like to be a UI designer and naturally, coming up with something from scratch demands a lot of time and effort. The documentation for UI is written exceptionally well, which was helpful. Something that I wasn’t able to do was test the readability of the font. I think the Quicksand font is fine, but I have doubts about the Reenie Beenie title. So far, the two people who I had asked to conduct the impression test for me did not notice or comment about the legibility of the font. I’m not sure how a wider audience would perceive it. 
 
 <p align="center">Landing Page</p>
 <p align="center">
