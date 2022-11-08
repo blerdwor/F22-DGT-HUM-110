@@ -68,13 +68,14 @@ The Figma full screen design (for impression testing) can be found [here](https:
 ![Shape documentation](./images/interface-8.png)
 
 ## Impression Test
+I asked my two roommates to conduct an impression test for me. I showed them the full screen version of the prototype and gave them 5 seconds to look at it. Then I asked them to describe their initial impression, what they thought the website was for, if they thought it was reliable / professional, and overall opinion of it. These were their responses below:
+
+>"The layout is super simple so there wasn’t a lot to process which was good since I only had 5 seconds to scan the page. Based on the pictures, it seems like it’s for a beach related event…? But other than that, I’m not very sure. I like the look of it! It’s really cute and I like the font; it’s fun. I think it looks professional too because of how clean and uniform the design is."
+
+
+>“The first thing I remember is the image grid in the middle. That really stuck out to me and I like that the page is image-centered rather than text. But now I’m not super sure what the website is for. I know the title above said something like “Events near you” but that’s not very clear to me what events. I think the page is nice-looking too, although it might be a little plain but that’s just my opinion. It definitely looks professional to me!
+
+**Findings:** It seems like the website does well to look professional due to its lack of clutter, and uniform shapes and colors. The biggest problem that I am running into is recognizability. While they can infer that this is a site relating to the ocean, it is not immediately obvious what specifically the site does. This is a functional problem. Based on this test though, I did find success in making the webpage look friendly and inviting!  
 
 ## Reflection
 This process was a lot more time-intensive than I had expected. I spent much longer on the layout than I had originally anticipated. I think that with time and experience, I’d have a better idea of what proportions look aesthetically pleasing. I also spent a long time experimenting with the font types, sizes, and arrangement which is to be expected. Similarly, color is also difficult to get right on top of the added challenge of ensuring that the design is visually accessible. I’m really grateful for the Figma plugins and web tools that helped me develop a usable color palette. This activity gave me a lot of insight on what it’s like to be a UI designer and naturally, coming up with something from scratch demands a lot of time and effort. The documentation for UI is written exceptionally well, which was helpful. Something that I wasn’t able to do was test the readability of the font. I think the Quicksand font is fine, but I have doubts about the Reenie Beenie title. So far, the two people who I had asked to conduct the impression test for me did not notice or comment about the legibility of the font. I’m not sure how a wider audience would perceive it. 
-
-<p align="center">Landing Page</p>
-<p align="center">
-  <kbd>
-    <img src="./images/Landing.png" width="703.13" height="500"/>
-  </kbd>
-</p>
