@@ -4,7 +4,7 @@ Belle Lerdworatawee | DGT HUM 110 | Fall 2022
 
 ## Overview
 **Project:** 
-> The purpose of this project is to help young adults learn about ocean sustainability and find ways that they can help protect marine life. From conducting interviews and field research, I learned that a sample of young adults in LA feel that climate change can be overwhelming, don’t think that helping out is convenient, and like social aspects. Hence, my design aims to address these concerns by providing a website that makes ocean sustainability seem welcoming and worthwhile. The key tasks that this supports are:
+> The purpose of this project is to help young adults learn about ocean sustainability and find ways that they can help protect marine life. From conducting interviews and field research, I learned that a sample of young adults in LA feel that climate change can be overwhelming, don’t think that helping out is convenient, and like social aspects. Hence, my design aims to address these concerns by providing an app that makes ocean sustainability welcoming and worthwhile. The key tasks that this supports are:
 > 1. able to easily find relevant non-textual information on news on topics relating to marine conservation
 > 2. able to easily find relevant textual information on news on topics relating to marine conservation
 > 3. able to easily find ways to help out both in-person and remotely
