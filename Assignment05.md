@@ -24,7 +24,7 @@ The low-fidelity prototype supports the following tasks:
   * Filter the news by topic
 * Search for specific current news
 
-## [Wireframes](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Lofi-Prototype-Demo?node-id=0%3A1)
+## Wireframes
 
 <p align="center">Landing Page</p>
 <p align="center">
@@ -65,6 +65,9 @@ The low-fidelity prototype supports the following tasks:
 </p>
 
 ## Wireflow
+
+The wireframe and flow file may be found [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Lofi-Prototype-Demo?node-id=0%3A1).
+
 <p align="center">
   <kbd>
     <img src="./images/Wireflow.png " width="703.13" height="500"/>
