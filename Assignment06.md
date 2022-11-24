@@ -54,9 +54,8 @@ The Figma full screen design (for impression testing) can be found [here](https:
 > 3. button color and text (The text is the same color as the background so the ratio is the same as above; this was intentional to make the words seem "cut-out" of the button.)   
 
 <img src="./images/color-contrast-1.png" width="471.67" height="263.67"/> <img src="./images/color-contrast-2.png" width="471.67" height="263.67"/>
-![Light accessibility test](./images/color-contrast-checker.png)
+
 <img src="./images/color-contrast-3.png" width="471.67" height="263.67"/> <img src="./images/color-contrast-4.png" width="471.67" height="263.67"/> 
-![Dark accessibility test](./images/color-contrast-checker-1.png)
 
 > The errors shown from the A11y plugin in both of the light and dark screens are not applicable. It's comparing the font in the image to the background. It's flagged as an error because the text and the background are the same color, producing a ratio of 1. However that text is not on top of the background, but the plugin just doesn't recognize that.  
 
