@@ -17,7 +17,7 @@ Based on the research I conducted (as described below), I created 3 design featu
 
 #### Heuristic Analysis
 
-This project started with an evaluation of two other sites focused on the same topic to see how they passed Nielson’s 10 Heuristics. Since I chose to address Goal 14: Life Under Water, I turned to look at the [Marine Conservation Institution](https://marine-conservation.org/) website—an alliance that defends and advocates for marine ecosystems⁠—and the [DHI Group]⁠(https://www.dhigroup.com/)—who offers solutions for problems in water environments.
+This project started with an evaluation of two other sites focused on the same topic to see how they passed Nielson’s 10 Heuristics. Since I chose to address Goal 14: Life Under Water, I turned to look at the [Marine Conservation Institution](https://marine-conservation.org/) website—an alliance that defends and advocates for marine ecosystems⁠—and the [DHI Group](https://www.dhigroup.com/)—who offers solutions for problems in water environments.
 
 #### _Results_
 Both of these websites look professional and are well-maintained, establishing trust between the site and the user. However, I did notice some serious heuristic violations which made part of the user experience confusing and frustrating. With my project’s goal in mind, I took notes on the most glaring errors that I noticed during this analysis:
@@ -35,11 +35,7 @@ In the next step of this process, I decided to hone in on the Marine Conservatio
 
 Here is a recording of the session:
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="[https://www.youtube.com/embed/IboyHfL2jno](https://ucla.zoom.us/rec/play/7DD59EA0lWCaTUDLREZPT-oAL4FDbvV3LlYNZ1wHUe-HgSNlSc0skNDY03thinmGwMov3aQwn5ZehDk5.K7TE9y1qUzGgWBwB?startTime=1665360617000&_x_zm_rtaid=a5zhC2jaQgydyXOWxelwoA.1669325412409.b5bc8b4979c5b963de73ff18a50b2d16&_x_zm_rhtaid=518)" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<iframe src="https://drive.google.com/file/d/1EDHvbA4dz_H83VHK37qeHrhTZWP8wYH2/view?usp=share_link" width="560" height="420"></iframe> 
 
 This pilot Usability Test allowed me to better understand the perspective of other people using the site, confirm some of the previous grievances I had found with the site, as well as note new findings with the site.
 The participant found it excruciatingly difficult to stay focused as it was very boring. They did not have any trouble finding ways to get involved with the institute but largely struggled to complete the other tasks. 
