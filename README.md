@@ -83,6 +83,7 @@ Please read the in-depth studies [here](https://github.com/blerdwor/F22-DGT-HUM-
 At this point, I had decided to create solutions in the form of a website. The purpose of a low-fidelity prototype is to plan the general flow of the website and specify what each page looks like. This is to ensure efficient and easy functionality as well as receive initial feedback on a draft before actually creating the full end-to-end prototype. My goal is to apply the complaints I found with current products to this lo-fi prototype to actually solve prior user frustrations. I received initial feedback from asking someone to delineate the wireflow while describing to me their thought process and what they found confusing. 
 
 <img src="./images/Wireflow.png" width="500"> 
+The complete wireframe file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=0%3A1&t=UWEwgbexRx95JDth-0) for interactivity.
 
 In this wireframe, I tested 4 tasks:
 1. Find local events to get involved with
@@ -104,30 +105,50 @@ From my research, I had learned that users care a lot about the appearance of th
 
 After finishing, I conducted an impression test on my potential design to check basic standards like legible font, match between content and feel of the design, and perceived reliability. Based on my participants feedback about preferring mobile, I decided to add the layout for a mobile screen. The wireflow does not need to be changed as it will be the same, but on a smaller screen. The design library that I created ported well to mobile so the only thing that I needed to add was the layout for a phone screen. I also decided to switch from a desktop website to an app due to feedback that I received. Equipped with this tool, I moved onto building the high-fidelity prototype.
 
-This is a sample of the desktop screens in both light and dark mode.
+This is a sample of the desktop screens in both light and dark mode, and the mobile version.
 
-![Design Screen](./images/interface-5.png)
+| Desktop Light Mode | Desktop Dark Mode | Mobile Version |
+|---------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+|<img src="./images/interface-10.png" height="284px" width="399.38px">|<img src="./images/interface-11.png" height="284px" width="399.38px">|<img src="./images/interface-9.png" height="284px" width="131.27px">|
 
 Please read the design system details [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment06.md).
 
-### High-Fidelity Prototype
+### High-Fidelity Prototype and UT
 
-In order to present my ideas to other people, I created a high-fidelity prototype to showcase my research and incorporate it into a tangible solution. I wanted to make an interactive app that is user-centered and aims to address as best as possible all the challenges that young adults find with current sites in the market. I also am trying to gauge what the most intuitive flow is for young adults and verify this through a cycle of evaluation and revision. 
+In order to present my ideas to other people, I created a high-fidelity prototype to showcase my research and incorporate it into a tangible solution. I wanted to make an interactive app that is user-centered and aims to address as best as possible all the challenges that young adults find with current sites in the market. I also am trying to gauge what the most intuitive flow is for young adults and verify this through a cycle of evaluation and revision.
 
-Screen Design For The Task of Getting Involved
+After creating an initial high-fidelity prototype, I conducted a cognitive walkthrough with two of my peers and revised my draft. Then I conducted user testing to further see how the public would react to my app and locate any pain points to fix.  
 
-Wireframe
+#### Prototype Tasks
 
-Interactive High Fidelity Protoype
+The two tasks that based on my research and personas/usage scenarios were essential to my prototype are being able to find ways to get involved and learn more about ocean sustainability without feeling overwhelmed. Further breaking down these tasks, my prototype supports the ability to:
+* Easily find local events near you using your zip code or city and smoothly learn about which one looks most enticing 
+* Easily find ways to help support marine conservation even if you are not near any local events
+* Stay up-to-date with current efforts being made to reverse climate change effects on ocean ecosystems by browsing through articles
+* Monitor ocean cleanup efforts through an interactive dashboard and see updates on progress
+* Browse non-textual data such as a marine animal sound database 
+
+#### Wireframe
+
+![Wireframe](./images/hifi-wireframe.png)
+
+The complete wireframe may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=UWEwgbexRx95JDth-0) for interactivity.
+
+#### Interactive High Fidelity Protoype
+
+The complete high-fidelity prototype demo may be accessed [here](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A862&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862).
+
+The complete high-fidelity file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&t=UWEwgbexRx95JDth-0).
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
 
+This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research, and then further revision based on user feedback. I am grateful to have received such detailed and expert feedback from Dr.Sookyung Cho; it was an invaluable experience that pushed me to be more innovative when solving problems. It is very satisfying to look back and see how far my efforts in planning, conducting research, gathering information and analyzing have come. 
 
-
-This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research. It was very satisfying to look back and see how my efforts in planning, conducting research, gathering information and analyzing it went a long way. 
-
-Please read more about the process  [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment07.md).
+Please read more about the process and details [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment07.md).
 
 ### Pitch
+
+As a final note, I have linked a video to my pitch for this project. 
+[![Pitch](http://img.youtube.com/vi/replace-this-with-id/0.jpg)](https://www.youtube.com/watch?v=replace-this-with-id "Pitch") 
 
 ### Reflection
