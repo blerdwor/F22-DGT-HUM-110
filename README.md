@@ -83,7 +83,8 @@ Please read the in-depth studies [here](https://github.com/blerdwor/F22-DGT-HUM-
 At this point, I had decided to create solutions in the form of a website. The purpose of a low-fidelity prototype is to plan the general flow of the website and specify what each page looks like. This is to ensure efficient and easy functionality as well as receive initial feedback on a draft before actually creating the full end-to-end prototype. My goal is to apply the complaints I found with current products to this lo-fi prototype to actually solve prior user frustrations. I received initial feedback from asking someone to delineate the wireflow while describing to me their thought process and what they found confusing. 
 
 <img src="./images/Wireflow.png" width="500"> 
-The complete wireframe file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=0%3A1&t=UWEwgbexRx95JDth-0) for interactivity.
+
+The interactive wireframe file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=0%3A1&t=UWEwgbexRx95JDth-0).
 
 In this wireframe, I tested 4 tasks:
 1. Find local events to get involved with
@@ -132,7 +133,7 @@ The two tasks that based on my research and personas/usage scenarios were essent
 
 ![Wireframe](./images/hifi-wireframe.png)
 
-The complete wireframe may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=UWEwgbexRx95JDth-0) for interactivity.
+The interactive wireframe file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=UWEwgbexRx95JDth-0).
 
 #### Interactive High Fidelity Protoype
 
@@ -149,6 +150,7 @@ Please read more about the process and details [here](https://github.com/blerdwo
 ### Pitch
 
 As a final note, I have linked a video to my pitch for this project. 
+
 [![Pitch](http://img.youtube.com/vi/replace-this-with-id/0.jpg)](https://www.youtube.com/watch?v=replace-this-with-id "Pitch") 
 
 ### Reflection
