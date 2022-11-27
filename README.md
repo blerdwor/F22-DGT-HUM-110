@@ -2,7 +2,7 @@
 
 ## Belle Lerdworatawee | DGT HUM 110: UI+UX Design | Fall 2022
 
-## Content
+## Table of Contents
 1. [About my proejct...](#1)
 2. [Design Statement](#2)
 3. [Competitor Analysis](#3)
