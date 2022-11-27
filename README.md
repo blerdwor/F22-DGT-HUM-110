@@ -180,7 +180,7 @@ Please read more about the process and details [here](https://github.com/blerdwo
 
 ### Pitch <a name="9"></a>
 
-As a final note, I have linked a video to my pitch for this project. 
+As a final note, I have linked a video to my pitch for this project which focuses on the motivation for this project as well as provides a summary of my work. 
 
 [![Pitch](http://img.youtube.com/vi/replace-this-with-id/0.jpg)](https://www.youtube.com/watch?v=replace-this-with-id "Pitch") 
 
