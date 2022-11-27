@@ -123,6 +123,7 @@ Interactive High Fidelity Protoype
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
 
 
+
 This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research. It was very satisfying to look back and see how my efforts in planning, conducting research, gathering information and analyzing it went a long way. 
 
 Please read more about the process  [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment07.md).
