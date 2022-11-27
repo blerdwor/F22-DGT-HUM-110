@@ -19,6 +19,10 @@ Based on the research I conducted (as described below), I created 3 design featu
 
 This project started with an evaluation of two other sites focused on the same topic to see how they passed Nielson’s 10 Heuristics. Since I chose to address Goal 14: Life Under Water, I turned to look at the [Marine Conservation Institution](https://marine-conservation.org/) website—an alliance that defends and advocates for marine ecosystems⁠—and the [DHI Group](https://www.dhigroup.com/)—who offers solutions for problems in water environments.
 
+| Marine Conservation Institute | DHI Group |
+|---------------------------------------------|---------------------------------------------|
+|<img src="./images/MCI.png" height="222.13px" width="500px"> | <img src="./images/DHI.png" height="222.13px" width="500px">|
+
 #### _Results_
 Both of these websites look professional and are well-maintained, establishing trust between the site and the user. However, I did notice some serious heuristic violations which made part of the user experience confusing and frustrating. With my project’s goal in mind, I took notes on the most glaring errors that I noticed during this analysis:
 * User control and freedom ⁠— It is important to allow users flexibility in moving back-and-forth, and even skip steps ahead to pages that they already know they want to go to. Otherwise, it is very hard to be patient and complete the task.
@@ -68,7 +72,7 @@ During the storytelling process, I created 2 personas: Mickey⁠—the overbooke
 
 | Persona | Empathy Map |
 |---------------------------------------------|---------------------------------------------|
-|<img src="./images/a4.1.png" height="280px"> | <img src="./images/a4.2.png" height="280px">|
+|<img src="./images/a4.1.png" height="280px" width="497.78"> | <img src="./images/a4.2.png" height="280px" width="497.78">|
 
 I created a persona card, an empathy map, and a journey map to identify their lives, challenges, wants, and how they process a user experience. Additionally, it reaffirms the needs for providing non-local ways to get involved as well as providing a picture-centric design in order to welcome newcomers which are key features of my project. This newfound understanding fueled the next step of my project which was creating an initial, low fidelity prototype to map out the primitive user experience. 
 
@@ -78,7 +82,7 @@ Please read the in-depth studies [here](https://github.com/blerdwor/F22-DGT-HUM-
 
 At this point, I had decided to create solutions in the form of a website. The purpose of a low-fidelity prototype is to plan the general flow of the website and specify what each page looks like. This is to ensure efficient and easy functionality as well as receive initial feedback on a draft before actually creating the full end-to-end prototype. My goal is to apply the complaints I found with current products to this lo-fi prototype to actually solve prior user frustrations. I received initial feedback from asking someone to delineate the wireflow while describing to me their thought process and what they found confusing. 
 
-[Wireflow](./images/Wireflow.png)
+<img src="./images/Wireflow.png" width="500"> 
 
 In this wireframe, I tested 4 tasks:
 1. Find local events to get involved with
@@ -100,6 +104,10 @@ From my research, I had learned that users care a lot about the appearance of th
 
 After finishing, I conducted an impression test on my potential design to check basic standards like legible font, match between content and feel of the design, and perceived reliability. Based on my participants feedback about preferring mobile, I decided to add the layout for a mobile screen. The wireflow does not need to be changed as it will be the same, but on a smaller screen. The design library that I created ported well to mobile so the only thing that I needed to add was the layout for a phone screen. I also decided to switch from a desktop website to an app due to feedback that I received. Equipped with this tool, I moved onto building the high-fidelity prototype.
 
+This is a sample of the desktop screens in both light and dark mode.
+
+![Design Screen](./images/interface-5.png)
+
 Please read the design system details [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment06.md).
 
 ### High-Fidelity Prototype
@@ -112,7 +120,8 @@ Wireframe
 
 Interactive High Fidelity Protoype
 
-<a href="https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A862&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862" class="btn btn-outline-secondary">Access the high-fidelity prototype(s) and UT here</a>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
+
 
 This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research. It was very satisfying to look back and see how my efforts in planning, conducting research, gathering information and analyzing it went a long way. 
 
