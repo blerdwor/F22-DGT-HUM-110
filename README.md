@@ -3,7 +3,7 @@
 ## Belle Lerdworatawee | DGT HUM 110: UI+UX Design | Fall 2022
 
 ## Table of Contents
-1. [About my proejct...](#1)
+1. [About my project...](#1)
 2. [Design Statement](#2)
 3. [Competitor Analysis](#3)
     1. [Heuristic Analysis](#3.1)
@@ -28,6 +28,9 @@
 ### About my project… <a name="1"></a>
 Oceans are essential to the existence of humans as we rely on them for food, water, energy, and climate regulation. In spite of this, human activity causes severe damage towards oceanic ecosystems. For our survival, we need to take care of and protect our precious resources. However, before we can even begin to do that, it is important to catch people's attention and spark interest in caring for marine life and our oceans. Then, we can collectively make a difference in ways like controlling pollution and overfishing. Thus, my project aims to utilize design practices and user-research methods to create a user experience that educates and persuades young-adults to care for life under the sea. Young-adults are in an early stage of life where they have time and energy to act upon these issues. Additionally, they are the ones who will have to deal with the implications of a compromised ocean ecosystem as they choose to start families and make other serious life decisions so it's important to persuade them.
 
+![turtle](./images/turtle.jpg)
+###### *Credits: Ocean Wilderness Org*
+
 ### Design Statement <a name="2"></a>
 My goal for this project is to impact young adults who want to get involved with ocean sustainability, but have a hard time starting due to lack of knowledge or other constraints such as time and energy. I wanted to offer a welcoming way to find events to directly become involved with as well as offer solutions for those who are not near any local events. Additionally, it can be very overwhelming to dive into the expanse of information that we have on marine life so I wanted to target this problem. 
 
@@ -43,8 +46,8 @@ Based on the research I conducted (as described below), I created 3 design featu
 This project started with an evaluation of two other sites focused on the same topic to see how they passed Nielson’s 10 Heuristics. Since I chose to address Goal 14: Life Under Water, I turned to look at the [Marine Conservation Institution](https://marine-conservation.org/) website—an alliance that defends and advocates for marine ecosystems⁠—and the [DHI Group](https://www.dhigroup.com/)—who offers solutions for problems in water environments.
 
 | Marine Conservation Institute | DHI Group |
-|---------------------------------------------|---------------------------------------------|
-|<img src="./images/MCI.png" height="222.13px" width="500px"> | <img src="./images/DHI.png" height="222.13px" width="500px">|
+|---------------------------------------------------|------------------------------|
+|![Marine Conservation Insititute](./images/MCI.png)|![DHI Group](./images/DHI.png)|
 
 #### _Results_ <a name="3.2"></a>
 Both of these websites look professional and are well-maintained, establishing trust between the site and the user. However, I did notice some serious heuristic violations which made part of the user experience confusing and frustrating. With my project’s goal in mind, I took notes on the most glaring errors that I noticed during this analysis:
@@ -94,8 +97,8 @@ In order to improve upon competitor products, I need to put myself into the shoe
 During the storytelling process, I created 2 personas: Mickey⁠—the overbooker and Vanessa⁠—the aspiring activist. Here is an example of Mickey’s persona and empathy map. 
 
 | Persona | Empathy Map |
-|---------------------------------------------|---------------------------------------------|
-|<img src="./images/a4.1.png" height="280px" width="497.78"> | <img src="./images/a4.2.png" height="280px" width="497.78">|
+|-----------------------------|---------------------------------|
+|![Persona](./images/a4.1.png)|![Empathy Map](./images/a4.2.png)|
 
 I created a persona card, an empathy map, and a journey map to identify their lives, challenges, wants, and how they process a user experience. Additionally, it reaffirms the needs for providing non-local ways to get involved as well as providing a picture-centric design in order to welcome newcomers which are key features of my project. This newfound understanding fueled the next step of my project which was creating an initial, low fidelity prototype to map out the primitive user experience. 
 
@@ -106,7 +109,11 @@ Please read the in-depth studies [here](https://github.com/blerdwor/F22-DGT-HUM-
 At this point, I had decided to create solutions in the form of a website. The purpose of a low-fidelity prototype is to plan the general flow of the website and specify what each page looks like. This is to ensure efficient and easy functionality as well as receive initial feedback on a draft before actually creating the full end-to-end prototype. My goal is to apply the complaints I found with current products to this lo-fi prototype to actually solve prior user frustrations. I received initial feedback from asking someone to delineate the wireflow while describing to me their thought process and what they found confusing. 
 
 #### Lo-fi Wireflow <a name="6.1"></a>
-<img src="./images/Wireflow.png" width="500"> 
+
+<p align="center">
+  <img src="./images/Wireflow.png" width="700px"/>
+</p>
+
 
 The interactive wireflow file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=0%3A1&t=UWEwgbexRx95JDth-0).
 
@@ -133,8 +140,8 @@ After finishing, I conducted an impression test on my potential design to check 
 This is a sample of the desktop screens in both light and dark mode, and the mobile version.
 
 | Desktop Light Mode | Desktop Dark Mode | Mobile Version |
-|---------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
-|<img src="./images/interface-10.png" height="284px" width="399.38px">|<img src="./images/interface-11.png" height="284px" width="399.38px">|<img src="./images/interface-9.png" height="284px" width="131.27px">|
+|----------------------------------------|---------------------------------------|-----------------------------------|
+|![Light Mode](./images/interface-10.png)|![Dark Mode](./images/interface-11.png)|![Mobile](./images/interface-9.png)|
 
 Please read the design system details [here](https://github.com/blerdwor/F22-DGT-HUM-110/blob/main/Assignment06.md).
 
@@ -161,11 +168,11 @@ The interactive wireflow file may be accessed [here](https://www.figma.com/file/
 
 #### Interactive High Fidelity Protoype <a name="8.3"></a>
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
+
 The complete high-fidelity prototype demo may be accessed [here](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A862&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862).
 
 The complete high-fidelity file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&t=UWEwgbexRx95JDth-0).
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
 
 This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research, and then further revision based on user feedback. I am grateful to have received such detailed and expert feedback from Dr.Sookyung Cho; it was an invaluable experience that pushed me to be more innovative when solving problems. It is very satisfying to look back and see how far my efforts in planning, conducting research, gathering information and analyzing have come. 
 
