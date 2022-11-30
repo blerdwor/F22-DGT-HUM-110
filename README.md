@@ -168,7 +168,7 @@ The two tasks that based on my research and personas/usage scenarios were essent
 The interactive wireflow file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=UWEwgbexRx95JDth-0).
 
 #### Cognitive Walkthrough <a name="8.3"></a>
-To test it, I conducted a cognitive walkthrough with two of my peers. I took an impression test and presented one of my personas⁠—Mickey, the overbooker. The task was finding a way to do their part to help support marine conservation efforts amidst having very little time, and find recent information to learn more about what is affecting the ocean. I received very useful comments and feedback such as adding an popup warning to notify the user that they are being taken to another page. I incorporated the feedback into the final prototype below. All of the comments may be found [here](https://docs.google.com/document/d/1CJQF9twL9GuwRM6PM7x3sEbux31ExPRlMg-hhCLRen8/edit).
+To test it, I conducted a cognitive walkthrough with two of my peers. I took an impression test and presented one of my personas⁠—Mickey, the overbooker. The task was finding a way to do their part to help support marine conservation efforts amidst having very little time, and find recent information to learn more about what is affecting the ocean. I received very useful comments and feedback such as adding an popup warning to notify the user that they are being taken to another page. I incorporated the feedback into the final prototype below. All of the comments may be found [here](https://docs.google.com/document/d/1CJQF9twL9GuwRM6PM7x3sEbux31ExPRlMg-hhCLRen8/edit?usp=sharing).
 
 #### Interactive High Fidelity Protoype <a name="8.4"></a>
 
