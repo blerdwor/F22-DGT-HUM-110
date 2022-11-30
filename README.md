@@ -149,7 +149,7 @@ Please read the design system details [here](https://github.com/blerdwor/F22-DGT
 
 In order to present my ideas to other people, I created a high-fidelity prototype to showcase my research and incorporate it into a tangible solution. I wanted to make an interactive app that is user-centered and aims to address as best as possible all the challenges that young adults find with current sites in the market. I also am trying to gauge what the most intuitive flow is for young adults and verify this through a cycle of evaluation and revision.
 
-After creating an initial high-fidelity prototype, I conducted a cognitive walkthrough with two of my peers and revised my draft. Then I conducted user testing to further see how the public would react to my app and locate any pain points to fix.  
+After creating an initial high-fidelity prototype, I conducted a cognitive walkthrough with two of my peers and revised my draft.  
 
 #### Prototype Tasks <a name="8.1"></a>
 
