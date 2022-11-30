@@ -172,7 +172,7 @@ The interactive wireflow file may be accessed [here](https://www.figma.com/file/
 
 The complete high-fidelity prototype demo may be accessed [here](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A862&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862).
 
-The complete high-fidelity file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&t=UWEwgbexRx95JDth-0).
+The complete high-fidelity file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&t=QjExvKktupUFamUJ-0).
 
 This final high-fidelity prototype was a culmination of the detailed, invaluable user data I got from weeks of conducting user research, and then further revision based on user feedback. I am grateful to have received such detailed and expert feedback from Dr.Sookyung Cho; it was an invaluable experience that pushed me to be more innovative when solving problems. It is very satisfying to look back and see how far my efforts in planning, conducting research, gathering information and analyzing have come. 
 
