@@ -182,7 +182,7 @@ Please read more about the process and details [here](https://github.com/blerdwo
 
 As a final note, I have linked a video to my pitch for this project which focuses on the motivation for this project as well as provides a summary of my work. 
 
-[![Pitch](http://img.youtube.com/vi/replace-this-with-id/0.jpg)](https://www.youtube.com/watch?v=replace-this-with-id "Pitch") 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rIlyOResMq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Reflection <a name="10"></a>
 
