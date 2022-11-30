@@ -53,18 +53,58 @@ Please note that these are simplified versions of the wireflow! I only included 
 ![Wireflow 7](./images/wireflow7.png)
 
 ## Prototype
-[Design File](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&t=zl0kpMz17ORfKtEF-1)
+[Design File](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=314%3A2016&t=QjExvKktupUFamUJ-0)
 
-[Wireframe](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=zl0kpMz17ORfKtEF-0)
+[Wireflow](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=QjExvKktupUFamUJ-0)
 
-[Complete Prototype](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A124&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862)
+[Complete Prototype 1.0](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=314%3A2088&scaling=scale-down&page-id=314%3A2016&starting-point-node-id=314%3A2088)
 
-[Prototype Restricted to Task 1 & 2](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A1303&scaling=scale-down&page-id=205%3A1238&starting-point-node-id=205%3A1303)
+[Prototype Restricted to Task 1 & 2](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A1238&scaling=scale-down&page-id=205%3A1238&starting-point-node-id=205%3A1303)
 
 [Prototype Restricted to Task 3](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A1996&scaling=scale-down&page-id=205%3A1996&starting-point-node-id=205%3A2061)
 
 ## Cognitive Walkthrough
-In progress.
+During Week 9, I conducted a cognitive walkthrough with two of my peers. The walkthrough lasted about 15 minutes during which, the two classmates gave me their impressions of the start screen and what they thought the app was for. After that, I presented one of my personas⁠—Mickey, the overbooker⁠—and they completed two tasks according the my persona. The task was finding a way to do their part to help support marine conservation efforts amidst having very little time, and find recent information to learn more about what is affecting the ocean.
+
+**Summary Based on Nielson’s Heuristics** 
+
+:one: Aesthetic and Minimalist Design
+
+**“It's inviting!” | “ To provide a platform for people to get involved in sustainability efforts” | “I think this app is about learning more about the ocean ecosystem and getting involved with the app with small actionable steps.” | “The design is simplistic and really clean!”**
+
+> They really liked the aesthetic of the app and had the right ideas about what this app is for! This is good to know as I remember that users would not use sites that they found unattractive or did not look reliable. I’m also relieved that the app looks like what it provides what services it does provide.
+
+:two: User Control and Freedom 
+
+**“It's also very clear, but I wish there was a way to go back without going all the way to the front iteration”**
+
+> I did make the app with the assumption that there would be a back button on the phone so I was relying on that for navigation. I could add a navigation bar but I think that that would add some clutter. Because there aren’t many pages to go back and forth between, I will have to make a tradeoff and forgo the navigation bar for the sake of keeping the interface tidy and minimalist. I see greater benefit in keeping the aesthetic clean as it is easier for the user to navigate and prevents them from being overwhelmed. 
+
+:three: Match Between System and Real World
+
+**“Database name is confusing. Grouping recent articles under database is confusing”**
+
+> This was very good to learn as it is an easy fix and I don’t want to confuse users since that would prevent them from achieving their goal. 
+
+:four: Error Prevention
+
+**“There needs to be a notice that clicking a URL will take you to another link.”**
+
+> This was actually one of the errors I remember catching when conducting a heuristic analysis on competitor sites, but I had failed to prevent it in my own product. I definitely will add a warning popup to notify users when they are clicking on a link that will take them to another site. 
+
+From this I made the following revisions:
+* added warning popups to any URLs that a user can click on so that they can confirm that they want to leave the site and go to the new link
+* changed the name from “Database” to “Learn More”
+* added the text "Read Me" to the pictures on the articles to be more understandable
+
+The complete cognitive walkthrough feedback I received can be found in this
+[document](https://docs.google.com/document/d/1CJQF9twL9GuwRM6PM7x3sEbux31ExPRlMg-hhCLRen8/edit?usp=sharing). 
+
+Here is the link to my [revised high-fidelity prototype version 2.0](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=86%3A862&scaling=scale-down&page-id=86%3A124&starting-point-node-id=86%3A862)
+
+## Reflection
+
+If I could go back and redo this process, I would definitely have wanted to conduct user testing on it. However, I have come to realize that UIUX is about tradeoffs and making the best decision in the moment. I am still proud of my app in the way that it achieves the goals that I had set for it and serves its purpose. The cognitive walkthrough was essential in getting quality feedback from peers who know what to look for. This entire process goes to show how cyclic UI/UX is and that it is a never-ending process of obtaining feedback, getting creative, and then revising the results. With every revision though, the final product does get more and more polished. It's very satisfying to be able to deliver a solution with the customer's best interests at heart. 
 
 ## Sources
 > I took pictures and information on tracking pollution for the frame “Track cleanup efforts” here: https://theoceancleanup.com/dashboard/# 
