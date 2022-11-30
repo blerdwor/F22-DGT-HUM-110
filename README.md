@@ -21,7 +21,8 @@
 8. [High-Fidelity Prototype and UT](#8)
     1. [Prototype Tasks](#8.1)
     2. [Hi-fi Wireflow](#8.2)
-    3. [Interactive High Fidelity Protoype](#8.3)
+    3. [Cognitive Walkthrough](#8.3)
+    4. [Interactive High Fidelity Protoype](#8.4)
 9. [Pitch](#9)
 10. [Reflection](#10)
 
@@ -166,7 +167,10 @@ The two tasks that based on my research and personas/usage scenarios were essent
 
 The interactive wireflow file may be accessed [here](https://www.figma.com/file/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A480&t=UWEwgbexRx95JDth-0).
 
-#### Interactive High Fidelity Protoype <a name="8.3"></a>
+#### Cognitive Walkthrough <a name="8.3"></a>
+To test it, I conducted a cognitive walkthrough with two of my peers. I took an impression test and presented one of my personas⁠—Mickey, the overbooker. The task was finding a way to do their part to help support marine conservation efforts amidst having very little time, and find recent information to learn more about what is affecting the ocean. I received very useful comments and feedback such as adding an popup warning to notify the user that they are being taken to another page. I incorporated the feedback into the final prototype below. All of the comments may be found [here](https://docs.google.com/document/d/1CJQF9twL9GuwRM6PM7x3sEbux31ExPRlMg-hhCLRen8/edit).
+
+#### Interactive High Fidelity Protoype <a name="8.4"></a>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FnOk5ic4m1PlpO12fS6Q99V%2FPrototype-Demo%3Fnode-id%3D86%253A862%26scaling%3Dscale-down%26page-id%3D86%253A124%26starting-point-node-id%3D86%253A862" allowfullscreen></iframe>
 
