@@ -59,9 +59,9 @@ Please note that these are simplified versions of the wireflow! I only included 
 
 [Complete Prototype 1.0](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=314%3A2088&scaling=scale-down&page-id=314%3A2016&starting-point-node-id=314%3A2088)
 
-[Prototype Restricted to Task 1 & 2](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A1238&scaling=scale-down&page-id=205%3A1238&starting-point-node-id=205%3A1303)
+[Video of Task 1 & 2](https://drive.google.com/file/d/1S7Q7i3W1KqSOkeFFAq3VwPIj1iYHZERx/view?usp=share_link)
 
-[Prototype Restricted to Task 3](https://www.figma.com/proto/nOk5ic4m1PlpO12fS6Q99V/Prototype-Demo?node-id=205%3A1996&scaling=scale-down&page-id=205%3A1996&starting-point-node-id=205%3A2061)
+[Video of Task 3](https://drive.google.com/file/d/1muVxyFdamG9XR75YytM1kgb7dOfRp0u9/view?usp=share_link)
 
 ## Cognitive Walkthrough
 During Week 9, I conducted a cognitive walkthrough with two of my peers. The walkthrough lasted about 15 minutes during which, the two classmates gave me their impressions of the start screen and what they thought the app was for. After that, I presented one of my personas⁠—Mickey, the overbooker⁠—and they completed two tasks according the my persona. The task was finding a way to do their part to help support marine conservation efforts amidst having very little time, and find recent information to learn more about what is affecting the ocean.
